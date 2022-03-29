@@ -17,6 +17,7 @@ header{
     box-shadow: 1px 1px 0px 0px solid gray;
     background-color:  rgba(155, 79, 226, 0.924);
     color:white;
+    margin-bottom: 20px;
 }
 
 #header-container{
@@ -52,6 +53,9 @@ header{
     min-height: 600px;
     margin: 0 auto;
     padding: 30px 20px;
+    background-color: rgb(246, 241, 234);
+    border: 1px solid gray;
+    border-radius: 10px;
 }
 footer {
     width: 100%;
@@ -62,4 +66,5 @@ footer {
     font-size: 12px;
     letter-spacing: 2px;
     text-align: center;
+    margin-top: 20px;
 }
