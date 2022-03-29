@@ -50,6 +50,8 @@ header{
 #container {
     width: 80%;
     min-height: 600px;
+    margin: 0 auto;
+    padding: 30px 20px;
 }
 footer {
     width: 100%;
